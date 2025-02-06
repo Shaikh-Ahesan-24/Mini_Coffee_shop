@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="image">image</string>
+    <string name="i">image</string>
+    <string name="txt">Fall In Love With</string>
+    <string name="txt2">Coffee</string>
+    <string name="txt3">Welcome To Our Coffee Shop</string>
+    <string name="txt4">Every Cup Is Delightful For You</string>
+    <string name="menu">Available Coffees Are</string>
+    <string name="btn">Get Started</string>
+    <string name="image1">a</string>
+    <string name="image2">b</string>
+    <string name="image3">c</string>
+    <string name="image4">d</string>
+    <string name="image5">e</string>
+    <string name="image6">f</string>
+    <string name="image7">g</string>
+    <string name="image8">h</string>
+    <string name="image9">i</string>
+    <string name="txt1">Cappuccino</string>
+    <string name="a">Americano</string>
+    <string name="b">Macchiato</string>
+    <string name="c">Lungo</string>
+    <string name="d">Black-Coffee</string>
+    <string name="e">Indian-Tea</string>
+    <string name="f">Frappe</string>
+    <string name="g">Ristretto</string>
+    <string name="h">Affogato</string>
+    <string name="next">Next</string>
+    <string name="purchase">Order Now </string>
+    <string name="rate">Rs 250</string>
+</resources>
